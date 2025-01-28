@@ -2,6 +2,6 @@
 def welcome():
     print("New Screen")
 
-def click()
+def click():
     print("Click")
 
